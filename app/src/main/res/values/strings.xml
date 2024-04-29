@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="welcom">欢迎，请登录</string>
+    <string name="welcome">欢迎，请登录</string>
+    <string name="username">用户名：</string>
+
+</resources>
